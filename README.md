@@ -1,4 +1,4 @@
-## Hey there, I am Catherine an aspiring Software Engineer! <br>
+## Hey there, I am Catherine an aspiring Software Engineer!!! <br>
 
 I'm currently a 2nd-year ISE student with a passion for tech!👩‍💻
 <br>
