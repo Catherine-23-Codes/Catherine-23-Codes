@@ -29,6 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=catherine-23-codes&show_icons=true&locale=en" alt="catherine-23-codes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catherine-23-codes&" alt="catherine-23-codes" /></p>
+
 
 
