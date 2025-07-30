@@ -1,17 +1,22 @@
 <h1 align="center">Hola 👋, I'm Catherine Infanta A</h1>
 <h3 align="center">3rd-Year CS Student | Aspiring Full Stack Developer | DSA & Dev Enthusiast</h3>
 
+
+![48f08597f57fff39e981cf8ee92d53d2](https://github.com/user-attachments/assets/2b231e7a-d39b-4e74-a834-8deeb9a45d08)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
+![computer-work](https://github.com/user-attachments/assets/8ed02c44-2390-4a0e-bd0b-ce4a41767cc8)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catherine-23-codes&label=Profile%20views&color=0e75b6&style=flat" alt="catherine-23-codes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=catherine-23-codes" alt="catherine-23-codes" /></a> </p>
 
 - 🔭 I’m currently working on **DSA and Web Dev**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Backend development and AIML**
 
-- 👯 I’m looking to collaborate on **Mern stack**
+- 👯 I’m looking to collaborate on **MERN  Stack**
 
-- 🤝 I’m looking for help with **Full-stack dev**
+- 🤝 I’m looking for help with **Full-stack development**
 
 - 📫 How to reach me **infantacatherine398@gmail.com**
 
