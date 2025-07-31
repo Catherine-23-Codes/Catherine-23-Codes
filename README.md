@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Catherine Infanta A</h1>
+<h1 align="center">Hola 👋, I'm Catherine Infanta A ! </h1>
 <h3 align="center">3rd-Year CS Student | Aspiring Full Stack Developer | DSA & Dev Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catherine-23-codes&label=Profile%20views&color=0e75b6&style=flat" alt="catherine-23-codes" /> </p>
