@@ -6,8 +6,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  ![computer-work](https://github.com/user-attachments/assets/8ed02c44-2390-4a0e-bd0b-ce4a41767cc8)
 
 
-
-
 - 🔭 I’m currently working on **DSA and Web Dev**
 
 - 🌱 I’m currently learning **Backend development and AIML**
